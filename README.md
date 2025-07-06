@@ -28,7 +28,7 @@ We use the **DIV2K** dataset with 900 high-quality images (800 train, 100 valida
   
 - Checkpoints:The model checkpoint files are saved on Google Drive:  
 [Google Drive Checkpoints Folder](https://drive.google.com/drive/folders/1qV4DR6QplNjXVDiWd5TEd2OnCCW9H9gG?usp=sharing)
-We saved the trained Parameters for each model.
+(we saved the trained Parameters for each model).
 
 ## 🚀 How to Run
 The entire code is contained in a single Jupyter Notebook:  
@@ -71,4 +71,4 @@ We show that L1 outperforms MSE in final results despite slower convergence.
 - Visual examples from validation set crops.
 - Quantitative improvements in PSNR, SSIM, and FID (decreasing over epochs).
 - Visual examples show reduced blur and sharper textures on super-resolved images.
-- Model generalizes well from patches to full images during inference.
+- Others.
