@@ -1,6 +1,6 @@
 This folder contains three saved model files for machine learning experiments: 
 1) The SRRESNET model, which was sourced from Kaggle (file called:checkpoint_srresnet.pth).
-2) My custom-built model (file called:my_best_model.pth).
+2) ***My custom-built model*** (file called:my_best_model.pth).
 3) The Ablation Studies model (file called:my_best_ablated_versions_model.pth).
 
 Link to the drive where the Checkpoints files are located:
