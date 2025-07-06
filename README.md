@@ -7,9 +7,6 @@
 - Tomer Abram (208931691)  
 - Laith Sadik (318679677)  
 
-**GitHub repository:**  
-[https://github.com/laithsadik/SuperResolution-Image-Enhancement-Final-Project.git](https://github.com/laithsadik/SuperResolution-Image-Enhancement-Final-Project.git)
-
 
 ## 📌 Project Overview
 This project focuses on solving the **Single Image Super-Resolution (SISR)** problem: generating high-resolution images from low-resolution inputs using deep neural networks. Two models are compared:
