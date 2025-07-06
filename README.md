@@ -41,19 +41,21 @@ The entire code is contained in a single Jupyter Notebook:
 
 ## 📊 Evaluation Metrics
 We evaluate using:
-- **PSNR (Peak Signal-to-Noise Ratio)** – pixel-wise accuracy
-- **SSIM (Structural Similarity Index)** – perceptual similarity
-- **FID (Fréchet Inception Distance)** – realism of generated images
+- **PSNR (Peak Signal-to-Noise Ratio)** – pixel-wise accuracy.
+- **SSIM (Structural Similarity Index)** – perceptual similarity.
+- **FID (Fréchet Inception Distance)** – realism of generated images.
 
 ## 🔍 Ablation Study
 We compare:
-- **L1 Loss (baseline)** – better at preserving details  
-- **MSE Loss (ablation)** – faster convergence but slightly worse perceptual quality  
+- **L1 Loss (baseline)** – better at preserving details.  
+- **MSE Loss (ablation)** – faster convergence but slightly worse perceptual quality.  
 
 We show that L1 outperforms MSE in final results despite slower convergence.
 
 ## 📷 Sample Results
 - Examples where both models succeed/fail
-- Case studies where our custom model outperforms SRResNet
-- Visual examples from validation set crops
-
+- Case studies where our custom model outperforms SRResNet.
+- Visual examples from validation set crops.
+- Quantitative improvements in PSNR, SSIM, and FID (decreasing over epochs).
+- Visual examples show reduced blur and sharper textures on super-resolved images.
+- Model generalizes well from patches to full images during inference.
