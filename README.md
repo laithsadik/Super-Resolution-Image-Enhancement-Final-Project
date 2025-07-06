@@ -28,7 +28,7 @@ We use the **DIV2K** dataset with 900 high-quality images (800 train, 100 valida
   
 - Checkpoints:The model checkpoint files are saved on Google Drive:  
 [Google Drive Checkpoints Folder](https://drive.google.com/drive/folders/1qV4DR6QplNjXVDiWd5TEd2OnCCW9H9gG?usp=sharing)
-
+We saved the trained Parameters for each model.
 
 ## 🚀 How to Run
 The entire code is contained in a single Jupyter Notebook:  
@@ -44,9 +44,9 @@ The entire code is contained in a single Jupyter Notebook:
 ### 📂 Running via Google Colab:
 1. **Upload the notebook to your Google Drive.**
 2. **Open it in Google Colab.**
-3. The dataset (DIV2K) is loaded using Kaggle API or pre-uploaded patches.
-4. Press **Run All** – the notebook includes training both SRResNet and our custom model, as well as evaluation, ablation, and visualizations.
-> 💡 **Note:** Pre-trained model checkpoints are available in the linked Google Drive folder.  
+ The dataset (**DIV2K**) is loaded using Kaggle API or pre-uploaded patches.
+- Press **"Run All"** – the notebook includes training both **SRResNet** and our **custom model**, as well as evaluation, ablation, and visualizations.
+> 💡 **Note:** Pre-trained model checkpoints are available in the linked Google Drive folder ([Google Drive Checkpoints Folder](https://drive.google.com/drive/folders/1qV4DR6QplNjXVDiWd5TEd2OnCCW9H9gG?usp=sharing)).  
 > To save time and avoid re-training, simply download the `.pth` model files from the Drive and place them in the same folder as the notebook.  
 > If the models are found, the notebook will **skip training** and use them directly for evaluation and visualization.
 
