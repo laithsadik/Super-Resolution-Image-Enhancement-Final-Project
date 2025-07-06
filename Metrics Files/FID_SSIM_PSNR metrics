@@ -1,0 +1,6 @@
+For each model, the following image quality metrics are provided:
+1. FID (Fréchet Inception Distance).
+2. SSIM (Structural Similarity Index).
+3. PSNR (Peak Signal-to-Noise Ratio).
+
+Each Excel file includes the metric scores for the corresponding model.
