@@ -36,8 +36,7 @@ The entire code is contained in a single Jupyter Notebook:
 ### 📌 Notes:
 - Training is done on ×4 downscaled images from DIV2K.
 - Results include **PSNR/SSIM/FID**, side-by-side visual comparisons, and loss curves.
--### Checkpoints:
-The model checkpoint files are saved on Google Drive:  
+- Checkpoints:The model checkpoint files are saved on Google Drive:  
 [Google Drive Checkpoints Folder](https://drive.google.com/drive/folders/1qV4DR6QplNjXVDiWd5TEd2OnCCW9H9gG?usp=sharing)
 
 ## 📊 Evaluation Metrics
