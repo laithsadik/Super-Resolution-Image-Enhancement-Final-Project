@@ -1,7 +1,15 @@
-# 🖼️ Single Image Super-Resolution using Deep Learning  
-**Final Project – Deep Learning and its Applications to Signal and Image Processing and Analysis**  
-Course Number: 361.2.1120  
-Submission Date: 27.06.2025  
+# Deep Learning and its Applications to Signal and Image Processing and Analysis S2-2025  
+**Course:** 361-2-1120  
+**Submission Date:** 27.06.2025  
+**Final Project:** Super-Resolution Image Enhancement  
+
+**Authors:**  
+- Tomer Abram (208931691)  
+- Laith Sadik (318679677)  
+
+**GitHub repository:**  
+[https://github.com/laithsadik/SuperResolution-Image-Enhancement-Final-Project.git](https://github.com/laithsadik/SuperResolution-Image-Enhancement-Final-Project.git)
+
 
 ## 📌 Project Overview
 This project focuses on solving the **Single Image Super-Resolution (SISR)** problem: generating high-resolution images from low-resolution inputs using deep neural networks. Two models are compared:
@@ -50,12 +58,4 @@ We show that L1 outperforms MSE in final results despite slower convergence.
 - Examples where both models succeed/fail
 - Case studies where our custom model outperforms SRResNet
 - Visual examples from validation set crops
-
-## 👥 Authors
-- Student 1 – Full Name – ID  
-- Student 2 – Full Name – ID
-
-## 🔗 GitHub Link
-[👉 Project Repository](https://github.com/your-username/super-resolution-project)  
-> *(You can also paste this link in the Word report as a clickable hyperlink with CTRL+K)*
 
