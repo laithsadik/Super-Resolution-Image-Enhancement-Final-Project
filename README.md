@@ -1,4 +1,4 @@
-# Deep Learning and its Applications to Signal and Image Processing and Analysis S2-2025  
+# 🖼️ Deep Learning and its Applications to Signal and Image Processing and Analysis S2-2025  
 **Course:** 361-2-1120  
 **Submission Date:** 27.06.2025  
 **Final Project:** Super-Resolution Image Enhancement  
@@ -22,7 +22,7 @@ We evaluated performance using **PSNR**, **SSIM**, and **FID**, and included an 
 
 ## 🚀 How to Run
 The entire code is contained in a single Jupyter Notebook:  
-**`SISR_Final_Project.ipynb`**
+**`TA-208931691_LS-318679677.ipynb`**
 
 ### ✅ Requirements:
 - Python 3.8+
@@ -35,7 +35,7 @@ The entire code is contained in a single Jupyter Notebook:
 1. **Upload the notebook to your Google Drive.**
 2. **Open it in Google Colab.**
 3. The dataset (DIV2K) is loaded using Kaggle API or pre-uploaded patches.
-4. Press **Run All** (או להריץ תא תא) – the notebook includes training both SRResNet and our custom model, as well as evaluation, ablation, and visualizations.
+4. Press **Run All** – the notebook includes training both SRResNet and our custom model, as well as evaluation, ablation, and visualizations.
 
 ### 📌 Notes:
 - Training is done on ×4 downscaled images from DIV2K.
