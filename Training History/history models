@@ -1,0 +1,6 @@
+Training history – a dictionary containing:
+1. train_losses: training loss over epochs
+2. val_losses: validation loss over epochs
+3. val_psnrs: validation PSNR values
+4. val_ssims: validation SSIM values
+5. val_fids: validation FID scores
