@@ -3,10 +3,9 @@
 **Submission Date:** 27.06.2025  
 **Final Project:** Super-Resolution Image Enhancement  
 
-**Authors:**  
+**Students:**  
 - Tomer Abram (208931691)  
 - Laith Sadik (318679677)  
-
 
 ## 📌 Project Overview
 This project focuses on solving the **Single Image Super-Resolution (SISR)** problem: generating high-resolution images from low-resolution inputs using deep neural networks. Two models are compared:
